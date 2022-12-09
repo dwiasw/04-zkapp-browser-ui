@@ -237,7 +237,7 @@ a {
 	  width: 105px;
 	  height: 72px;
 	  position: absolute;
-	  left: 415px;
+	  left: 400px;
 	  top: 470px;
   }
   
@@ -306,11 +306,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/caution.ce4b38e8.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 180px;
-	  height: 155px;
+	  width: 100px;
+	  height: 100px;
 	  position: absolute;
-	  left: 370px;
-	  top: 120px;
+	  left: 405px;
+	  top: 200px;
   }
   
   .Home_succes__k1IzW {
@@ -321,8 +321,8 @@ a {
 	  width: 100px;
 	  height: 100px;
 	  position: absolute;
-	  left: 400px;
-	  top: 190px;
+	  left: 405px;
+	  top: 200px;
   }
   
   .Home_statusTxt__dVex8 {
@@ -679,11 +679,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.59a21ad2.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 50px;
-	  height: 52px;
+	  width: 30px;
+	  height: 30px;
 	  position: absolute;
-	  left: 600px;
-	  top: 120px;
+	  left: 630px;
+	  top: 145px;
   }
   
   .Home_closeGet__qG2td:hover {
@@ -691,11 +691,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn2.4d362383.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 50px;
-	  height: 52px;
+	  width: 30px;
+	  height: 30px;
 	  position: absolute;
-	  left: 600px;
-	  top: 120px;
+	  left: 630px;
+	  top: 145px;
   }
   
   .Home_closeSend__b_1LB {
@@ -703,11 +703,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn1.59a21ad2.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 50px;
-	  height: 52px;
+	  width: 30px;
+	  height: 30px;
 	  position: absolute;
-	  left: 600px;
-	  top: 120px;
+	  left: 630px;
+	  top: 145px;
   }
   
   .Home_closeSend__b_1LB:hover {
@@ -715,11 +715,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/closeBtn2.4d362383.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 50px;
-	  height: 52px;
+	  width: 30px;
+	  height: 30px;
 	  position: absolute;
-	  left: 600px;
-	  top: 120px;
+	  left: 630px;
+	  top: 145px;
   }
   
   .Home_teleIcon__qLDZz {
