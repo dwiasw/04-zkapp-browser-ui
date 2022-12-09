@@ -258,11 +258,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.3a0456cf.gif);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 280px;
-	  height: 280px;
+	  width: 100px;
+	  height: 100px;
 	  position: absolute;
-	  left: 315px;
-	  top: 150px;
+	  left: 400px;
+	  top: 200px;
   }
   
   .Home_sendLoading__Zkd01 {
@@ -270,11 +270,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.3a0456cf.gif);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 250px;
-	  height: 250px;
+	  width: 100px;
+	  height: 100px;
 	  position: absolute;
-	  left: 330px;
-	  top: 110px;
+	  left: 405px;
+	  top: 205px;
   }
   
   .Home_sendCheck__xMz4p {
@@ -282,11 +282,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/check.184f69c9.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 43px;
-	  height: 35px;
+	  width: 45px;
+	  height: 45px;
 	  position: absolute;
-	  left: 295px;
-	  top: 325px;
+	  left: 430px;
+	  top: 380px;
   }
   
   .Home_sendDone__abENy {
@@ -294,11 +294,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/senddone.3a2265b7.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 250px;
+	  width: 120px;
 	  height: 120px;
 	  position: absolute;
-	  left: 330px;
-	  top: 170px;
+	  left: 405px;
+	  top: 230px;
   }
   
   .Home_caution__VEpHP {
@@ -682,8 +682,8 @@ a {
 	  width: 50px;
 	  height: 52px;
 	  position: absolute;
-	  left: 590px;
-	  top: 150px;
+	  left: 600px;
+	  top: 120px;
   }
   
   .Home_closeGet__qG2td:hover {
@@ -694,8 +694,8 @@ a {
 	  width: 50px;
 	  height: 52px;
 	  position: absolute;
-	  left: 590px;
-	  top: 150px;
+	  left: 600px;
+	  top: 120px;
   }
   
   .Home_closeSend__b_1LB {
