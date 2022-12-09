@@ -55,13 +55,13 @@ a {
   
   .Home_footerbg__XmJ88 {
 	  display: block;
-	  background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.f696d622.png);
+	  background-image: url(/04-zkapp-browser-ui/_next/static/media/footer.9dbed894.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 520px;
-	  height: 145px;
+	  width: 615px;
+	  height: 120px;
 	  position: absolute;
-	  left: 200px;
+	  left: 145px;
 	  top: 560px;
   }
   
@@ -318,11 +318,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.23feca4d.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 100px;
-	  height: 100px;
+	  width: 70px;
+	  height: 560px;
 	  position: absolute;
-	  left: 405px;
-	  top: 200px;
+	  left: 420px;
+	  top: 225px;
   }
   
   .Home_statusTxt__dVex8 {
@@ -450,7 +450,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 250px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_sendBtn__F6hw6:hover {
@@ -462,7 +462,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 250px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_sendBtn__F6hw6:active {
@@ -474,7 +474,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 250px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_sendBtnDisable__6VyTK {
@@ -486,7 +486,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 250px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_getBtn__h_3sY {
@@ -498,7 +498,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 510px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_getBtn__h_3sY:hover {
@@ -510,7 +510,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 510px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_getBtn__h_3sY:active {
@@ -522,7 +522,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 510px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_getBtnDisable__ASdt7 {
@@ -534,7 +534,7 @@ a {
 	  height: 73px;
 	  position: absolute;
 	  left: 510px;
-	  top: 400px;
+	  top: 470px;
   }
   
   .Home_txtState__XfTmO {
@@ -754,7 +754,7 @@ a {
 	  width: 75px;
 	  height: 73px;
 	  position: absolute;
-	  left: 525px;
+	  left: 530px;
 	  top: 600px;
   }
   
