@@ -246,11 +246,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.3a0456cf.gif);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 265px;
-	  height: 185px;
+	  width: 100px;
+	  height: 100px;
 	  position: absolute;
-	  left: 322px;
-	  top: 100px;
+	  left: 400px;
+	  top: 200px;
   }
   
   .Home_getLoading__Ml8Nf {
@@ -318,11 +318,11 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.3a517f6a.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 180px;
-	  height: 180px;
+	  width: 100px;
+	  height: 100px;
 	  position: absolute;
-	  left: 370px;
-	  top: 120px;
+	  left: 400px;
+	  top: 190px;
   }
   
   .Home_statusTxt__dVex8 {
